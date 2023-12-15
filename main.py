@@ -30,7 +30,7 @@ def priceFetch():
 	output={}
 
 	headers = {
-  		"X-BLOBR-KEY": "4t5FjpElAF3DjjwywkCKDWu3kMIvtE5G"
+  		"X-BLOBR-KEY": 
 	}
 
 	for key in tokens:
